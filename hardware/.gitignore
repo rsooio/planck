@@ -1,0 +1,47 @@
+# KiCad backup files
+*.bak
+*.tmp
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Autosave files
+_autosave*
+
+# Simulation files
+*.raw
+*.log
+*.plt
+*.cir
+*.net
+
+# Gerber and fabrication outputs
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gm*
+*.drl
+*.zip
+
+# Intermediate files
+*.tmp
+*.cache
+*.xml
+
+# KiCad project-specific caches
+*.kicad_prl
+*.kicad_pro.user
+*.kicad_sch-bak
+fp-info-cache
+*.wrl
+
+# Symbol/footprint library tables (optional if centrally managed)
+sym-lib-table
+fp-lib-table
+
+# Other
+__pycache__/
+*.pyc
+
